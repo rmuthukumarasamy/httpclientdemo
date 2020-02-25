@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /demo
+external:
+  exchangerate:
+      baseURL: https://api.exchangerate-api.com/v4/latest
